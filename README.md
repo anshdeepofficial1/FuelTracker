@@ -67,7 +67,7 @@ Routing uses a layered fallback approach, while toll calculations prefer configu
 ## ⚡ Getting Started
 
 ```bash
-git clone https://github.com/anshdeepofficial/FuelTracker.git
+git clone https://github.com/anshdeepofficial1/FuelTracker.git
 cd FuelTracker
 ```
 
@@ -88,5 +88,5 @@ Contributions are welcome, especially for broader toll coverage, persistent stor
 ---
 
 <div align="center">
-Built by <a href="https://github.com/anshdeepofficial">Anshdeep Singh</a>
+Built by <a href="https://github.com/anshdeepofficial1">Anshdeep Singh</a>
 </div>
